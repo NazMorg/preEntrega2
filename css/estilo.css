@@ -1,8 +1,18 @@
-div{
+/* FUENTE */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* HEADER */
+div {
     background-color: rgb(129, 0, 0);
 }
 
-div img {
-    height: 50px;
+.navbar {
+    padding: 0;
+}
+
+.logo {
     width: 50px;
 }
