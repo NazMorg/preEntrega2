@@ -6,3 +6,27 @@ div img {
     height: 50px;
     width: 50px;
 }
+
+.footer {
+    justify-content: center;
+    background-color: rgb(129, 0, 0);
+    align-items: end;
+    padding: 0.2rem;
+    position: absolute;
+    bottom: 0px;
+    color: black;
+
+}
+
+.footer h5 {
+    font-weight: bold;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer a img {
+    width: 50px;
+    margin: 0.1rem;
+}
