@@ -41,12 +41,26 @@ body {
     font-weight: bold;
     text-decoration: underline #800000;
     padding: 0.5rem;
+    margin-top: 3rem;
 }
 
 .principal p {
     text-align: center;
     font-weight: bold;
     padding: 0.5rem;
+}
+
+.principal .subtexto {
+    text-align: left;
+    padding:0;
+    margin-left: 0.5rem;
+    margin-bottom: 0;
+}
+
+.principal h4 {
+    text-decoration: underline #800000;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 
@@ -69,6 +83,16 @@ body {
 }
 
 
+.linkLogo {
+    width: 40px;
+    margin: 0.5rem;
+}
+
+.twitchLogo {
+    width: 60px;
+    padding: 0;
+    margin: 0;
+}
 /* FOOTER */
 .footer {
     justify-content: center;
