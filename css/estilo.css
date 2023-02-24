@@ -57,6 +57,20 @@ body {
     margin-bottom: 0;
 }
 
+.principal .subtitulo {
+    font-weight: bold;
+    text-decoration: underline #800000;
+    margin-left: 0.8rem;
+    margin-top: 0;
+}
+
+.principal .subtituloDos {
+    font-weight: bold;
+    text-decoration: underline #800000;
+    margin-left: 0.8rem;
+    margin-top: 0.8rem;
+}
+
 .principal h4 {
     text-decoration: underline #800000;
     margin-left: 0.5rem;
